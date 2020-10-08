@@ -15,6 +15,7 @@ public class Tags {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.printl("Agregando texto")
         // TODO code application logic here
     }
     
